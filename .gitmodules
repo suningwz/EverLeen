@@ -1,0 +1,4 @@
+[submodule "RL-OtherApps/odoo14"]
+	path = RL-OtherApps/odoo14
+	url = git@github.com:RL-OtherApps/odoo14.git
+	branch = master
