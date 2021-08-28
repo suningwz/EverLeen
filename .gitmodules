@@ -1,0 +1,4 @@
+[submodule "wisesolu/atlanticpr-services"]
+	path = wisesolu/atlanticpr-services
+	url = git@github.com:wisesolu/atlanticpr-services.git
+	branch = main
